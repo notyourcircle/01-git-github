@@ -1,12 +1,12 @@
 # Trial and Eror
 
-Lorem ipsum
-hello guys welcome back with me</br>
+_Lorem_ __ipsum__
+hello guys welcome back with me <del>Zord Gaming Indonesia<del></br>
 notyourcircle\#2077
 ---
 ## info
 ![Logo](/logo.png)</br>
-*Jangan lupa subs **Zord Gaming Indonesia** ya*</br>
+*Jangan lupa subs __Zord __Gaming __Indonesia ya*</br>
 [Link Youtube](https://www.youtube.com/channel/UCHnYSKLPqGVvYX-iDZe8X-g)
 ---
 _Konten Live_<br>
@@ -16,7 +16,7 @@ _Konten Live_<br>
 	* Pokemon Alpha Sapphire
 3. Watch Dogs 2
 ---
-- [x] 100 Subs :sparkles
+- [x] 100 Subs :sparkles:
 - [ ] 1000 Subs
 - [ ] 1K Subs
 - [ ] 100k Subs
