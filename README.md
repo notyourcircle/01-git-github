@@ -1,12 +1,12 @@
 # Trial and Eror
 
-_Lorem_ __ipsum__
-hello guys welcome back with me <del>Zord Gaming Indonesia<del></br>
+_Lorem_ **ipsum**
+hello guys welcome back with me <del>Zord Gaming Indonesia</del></br>
 notyourcircle\#2077
 ---
 ## info
 ![Logo](/logo.png)</br>
-*Jangan lupa subs __Zord __Gaming __Indonesia ya*</br>
+*Jangan lupa subs **Zord** **Gaming** **Indonesia** ya*</br>
 [Link Youtube](https://www.youtube.com/channel/UCHnYSKLPqGVvYX-iDZe8X-g)
 ---
 _Konten Live_<br>
