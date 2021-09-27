@@ -3,14 +3,15 @@
 _Lorem_ **ipsum**</br>
 hello **guys** welcome _back_ with me <del>Zord Gaming Indonesia</del></br>
 notyourcircle\#2077
----
 
 ## info
 
 ![Logo](/logo.png)</br>
 *Jangan lupa subs **Zord** **Gaming** **Indonesia** ya*</br>
 [Link Youtube](https://www.youtube.com/channel/UCHnYSKLPqGVvYX-iDZe8X-g)
+
 ---
+
 _Konten Live_<br>
 1. Valorant
 2. Pokemon
