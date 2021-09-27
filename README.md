@@ -6,7 +6,7 @@ notyourcircle\#2077
 ---
 ## info
 ![Logo](/logo.png)</br>
-*Jangan lupa subs __Zord__Gaming__Indonesia__ ya*</br>
+*Jangan lupa subs **Zord Gaming Indonesia** ya*</br>
 [Link Youtube](https://www.youtube.com/channel/UCHnYSKLPqGVvYX-iDZe8X-g)
 ---
 _Konten Live_<br>
