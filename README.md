@@ -1,9 +1,9 @@
-# Trial and Eror
+# Trial and Eror #
 _Lorem_ **ipsum**</br>
 hello **guys** welcome _back_ with me <del>Zord Gaming Indonesia</del></br>
 notyourcircle\#2077
 ---
-## info
+## info ##
 ![Logo](/logo.png)</br>
 *Jangan lupa subs **Zord** **Gaming** **Indonesia** ya*</br>
 [Link Youtube](https://www.youtube.com/channel/UCHnYSKLPqGVvYX-iDZe8X-g)
