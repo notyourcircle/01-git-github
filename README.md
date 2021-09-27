@@ -1,7 +1,6 @@
 # Trial and Eror
-
-_Lorem_ **ipsum**
-hello guys welcome back with me <del>Zord Gaming Indonesia</del></br>
+_Lorem_ **ipsum**</br>
+hello **guys** welcome _back_ with me <del>Zord Gaming Indonesia</del></br>
 notyourcircle\#2077
 ---
 ## info
