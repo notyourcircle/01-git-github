@@ -13,7 +13,7 @@ Daftar Langkah-Langkahnya :
 ## Instalasi Git
 
 Langakah awal, kita akan menginstal Git itu sendiri. Karena saya menggunakan windows, maka saya melakukan instalasi git terlebih dahulu seperti yang telah dicontohkan pada [GitHub ini](https://github.com/zimera-systems/petunjuk-git-github/blob/main/01-install-git.md)
-. Tetapi karena terdapat perbedaan versi maka terdapat pilihan yang berbeda   dari tutorial tersebut.
+. Tetapi karena terdapat perbedaan versi maka terdapat pilihan yang berbeda dari tutorial tersebut.
 salah satunya adalah ini</br>
 ![instalasi git](/Gambar/2.jpg)</br>
 Kalian tinggal pilih yang **Default**</br>
